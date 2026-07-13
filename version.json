@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "build": 6,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.6/Portex_Setup_1.0.6.exe",
-  "notas": "Arregla subidas de imagen a la nube que fallaban en silencio (firmas, logo de empresa, fotos). Si guardaste un logo en la v1.0.5, vuelve a subirlo desde el panel SuperAdmin.",
+  "version": "1.0.7",
+  "build": 7,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.7/Portex_Setup_1.0.7.exe",
+  "notas": "Arregla el Excel del Jefe de Operaciones: hoja Sheet1 vacia y color corporativo que no llegaba a las hojas de modulo. Mejora presentacion (banner, columnas mas anchas).",
   "obligatoria": false
 }
