@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
-  "build": 13,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.13/Portex_Setup_1.0.13.exe",
-  "notas": "Corrige la actualizacion automatica: la descarga del instalador tenia el mismo problema de certificados TLS que version.json, pero en un dominio distinto.",
+  "version": "1.0.14",
+  "build": 14,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.14/Portex_Setup_1.0.14.exe",
+  "notas": "Corrige el error 403 al registrar presencia de turno en vigilantes importados por Excel (id local desincronizado del backend).",
   "obligatoria": true
 }
