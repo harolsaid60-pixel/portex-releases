@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "build": 11,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.11/Portex_Setup_1.0.11.exe",
-  "notas": "Corrige la actualizacion automatica (fallaba por certificados TLS incompletos de GitHub), ademas de fuga de datos entre empresas, alerta de emergencia y turnos en tiempo real.",
+  "version": "1.0.12",
+  "build": 12,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.12/Portex_Setup_1.0.12.exe",
+  "notas": "Diagnostico visible: si el registro de presencia de turno es rechazado por el backend, ahora aparece un aviso en pantalla con el error exacto en vez de fallar en silencio.",
   "obligatoria": true
 }
