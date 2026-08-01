@@ -1,7 +1,7 @@
 {
-  "version": "1.0.10",
-  "build": 10,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.10/Portex_Setup_1.0.10.exe",
-  "notas": "Corrige fuga de datos entre empresas/edificios, la confiabilidad de la alerta de emergencia, y la visibilidad en tiempo real de vigilantes en turno entre PCs distantes.",
+  "version": "1.0.11",
+  "build": 11,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.11/Portex_Setup_1.0.11.exe",
+  "notas": "Corrige la actualizacion automatica (fallaba por certificados TLS incompletos de GitHub), ademas de fuga de datos entre empresas, alerta de emergencia y turnos en tiempo real.",
   "obligatoria": true
 }
