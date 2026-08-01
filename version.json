@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "build": 16,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.16/Portex_Setup_1.0.16.exe",
-  "notas": "Corrige que un admin con varios edificios vinculados importaba vigilantes por Excel siempre al edificio principal, sin importar cual tenia activo.",
+  "version": "1.0.17",
+  "build": 17,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.17/Portex_Setup_1.0.17.exe",
+  "notas": "Corrige el boton 'Importar vigilantes' del panel de administrador (ExcelService), que tampoco enviaba el edificio activo al backend.",
   "obligatoria": true
 }
