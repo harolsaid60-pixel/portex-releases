@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "build": 7,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.7/Portex_Setup_1.0.7.exe",
-  "notas": "Arregla el Excel del Jefe de Operaciones: hoja Sheet1 vacia y color corporativo que no llegaba a las hojas de modulo. Mejora presentacion (banner, columnas mas anchas).",
-  "obligatoria": false
+  "version": "1.0.10",
+  "build": 10,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.10/Portex_Setup_1.0.10.exe",
+  "notas": "Corrige fuga de datos entre empresas/edificios, la confiabilidad de la alerta de emergencia, y la visibilidad en tiempo real de vigilantes en turno entre PCs distantes.",
+  "obligatoria": true
 }
