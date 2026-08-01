@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "build": 12,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.12/Portex_Setup_1.0.12.exe",
-  "notas": "Diagnostico visible: si el registro de presencia de turno es rechazado por el backend, ahora aparece un aviso en pantalla con el error exacto en vez de fallar en silencio.",
+  "version": "1.0.13",
+  "build": 13,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.13/Portex_Setup_1.0.13.exe",
+  "notas": "Corrige la actualizacion automatica: la descarga del instalador tenia el mismo problema de certificados TLS que version.json, pero en un dominio distinto.",
   "obligatoria": true
 }
