@@ -1,7 +1,7 @@
 {
-  "version": "1.0.20",
-  "build": 20,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.20/Portex_Setup_1.0.20.exe",
-  "notas": "Corrige que las fotos en Windows (camara o galeria) se subian sin comprimir a R2. Incluye tambien el soporte de camara de la 1.0.19.",
+  "version": "1.0.21",
+  "build": 21,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.21/Portex_Setup_1.0.21.exe",
+  "notas": "Revision general de bugs 2026-08-02: parqueadero avisa si el servidor rechaza el cambio, y 4 fallas de seguridad de acceso entre edificios corregidas en el backend.",
   "obligatoria": true
 }
