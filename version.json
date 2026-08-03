@@ -1,7 +1,7 @@
 {
-  "version": "1.0.30",
-  "build": 30,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.30/Portex_Setup_1.0.30.exe",
-  "notas": "Un vigilante en un PC nuevo ya no espera hasta 10 minutos para ver datos actualizados -- al iniciar/reanudar turno se fuerza una sincronizacion completa de inmediato.",
+  "version": "1.0.31",
+  "build": 31,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.31/Portex_Setup_1.0.31.exe",
+  "notas": "Agrega residentes a la exportacion de Excel (hoja propia con analisis por tipo) y conecta el Informe de Gestion a la exportacion consolidada del Jefe de Operaciones.",
   "obligatoria": true
 }
