@@ -1,7 +1,7 @@
 {
-  "version": "1.0.22",
-  "build": 22,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.22/Portex_Setup_1.0.22.exe",
-  "notas": "Segunda revision general de bugs 2026-08-02: PQRS y mantenimiento ya no mostraban la fecha adelantada 5 horas al sincronizar, y el respaldo automatico diario ya no se salta un dia por coincidencia de fecha entre meses distintos.",
+  "version": "1.0.23",
+  "build": 23,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.23/Portex_Setup_1.0.23.exe",
+  "notas": "Se elimino el auto-registro publico de vigilante en el login, que permitia crear una cuenta sin aprobacion de ningun admin con una contrasena predecible.",
   "obligatoria": true
 }
