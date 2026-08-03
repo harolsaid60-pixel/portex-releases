@@ -1,7 +1,7 @@
 {
-  "version": "1.0.24",
-  "build": 24,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.24/Portex_Setup_1.0.24.exe",
-  "notas": "Corrige que los vigilantes en turno no aparecieran en el panel del administrador: se avisa presencia de inmediato al reanudar la app, y los vigilantes dados de alta por Excel ya no quedan con un id distinto entre el PC y el backend.",
+  "version": "1.0.25",
+  "build": 25,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.25/Portex_Setup_1.0.25.exe",
+  "notas": "Reimportar el Excel de vigilantes ahora tambien repara a los que ya existian localmente con un id mal enlazado con el backend, no solo a las altas nuevas.",
   "obligatoria": true
 }
