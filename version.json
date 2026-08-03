@@ -1,7 +1,7 @@
 {
-  "version": "1.0.25",
-  "build": 25,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.25/Portex_Setup_1.0.25.exe",
-  "notas": "Reimportar el Excel de vigilantes ahora tambien repara a los que ya existian localmente con un id mal enlazado con el backend, no solo a las altas nuevas.",
+  "version": "1.0.26",
+  "build": 26,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.26/Portex_Setup_1.0.26.exe",
+  "notas": "Corrige que un admin con varios edificios vinculados descargaba/subia datos del edificio equivocado al trabajar en un edificio distinto al principal de su cuenta.",
   "obligatoria": true
 }
