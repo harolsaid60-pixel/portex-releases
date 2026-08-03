@@ -1,7 +1,7 @@
 {
-  "version": "1.0.28",
-  "build": 28,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.28/Portex_Setup_1.0.28.exe",
-  "notas": "Cierra el resto de modulos (PQRS, mantenimiento, parqueadero, alertas de emergencia, vigilantes en turno, reportes de supervisor, verificaciones de puesto) que aun usaban siempre el edificio principal de la cuenta en vez del edificio activo elegido.",
+  "version": "1.0.29",
+  "build": 29,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.29/Portex_Setup_1.0.29.exe",
+  "notas": "Corrige que un vigilante dado de alta en otro PC no pudiera iniciar turno la primera vez que usa un equipo distinto -- ahora se descarga su registro automaticamente, y si falla se muestra un aviso claro en vez de fallar en silencio.",
   "obligatoria": true
 }
