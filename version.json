@@ -1,7 +1,7 @@
 {
-  "version": "1.0.27",
-  "build": 27,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.27/Portex_Setup_1.0.27.exe",
-  "notas": "Corrige que el dashboard del administrador quedaba mostrando datos viejos (ej. 0 residentes) al cambiar de edificio activo, sin refrescarse solo despues de terminar de sincronizar.",
+  "version": "1.0.28",
+  "build": 28,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.28/Portex_Setup_1.0.28.exe",
+  "notas": "Cierra el resto de modulos (PQRS, mantenimiento, parqueadero, alertas de emergencia, vigilantes en turno, reportes de supervisor, verificaciones de puesto) que aun usaban siempre el edificio principal de la cuenta en vez del edificio activo elegido.",
   "obligatoria": true
 }
