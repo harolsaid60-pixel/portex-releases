@@ -1,7 +1,7 @@
 {
-  "version": "1.0.33",
-  "build": 33,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.33/Portex_Setup_1.0.33.exe",
-  "notas": "Fix critico: visitas, turnos y alertas de panico registradas desde Android no llegaban al PC (INSERT local fallaba en silencio). Tambien corrige perdida de campos en correspondencia, parqueadero y visitantes frecuentes.",
+  "version": "1.0.34",
+  "build": 34,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.34/Portex_Setup_1.0.34.exe",
+  "notas": "Corrige el cursor de sincronizacion: si alguna fila fallaba al descargar, el cursor avanzaba igual y esa fila se perdia para siempre. Ahora reintenta la ventana completa la siguiente vez.",
   "obligatoria": false
 }
