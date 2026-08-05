@@ -3,5 +3,5 @@
   "build": 33,
   "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.33/Portex_Setup_1.0.33.exe",
   "notas": "Fix critico: visitas, turnos y alertas de panico registradas desde Android no llegaban al PC (INSERT local fallaba en silencio). Tambien corrige perdida de campos en correspondencia, parqueadero y visitantes frecuentes.",
-  "obligatoria": true
+  "obligatoria": false
 }
