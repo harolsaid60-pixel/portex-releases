@@ -3,5 +3,5 @@
   "build": 34,
   "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.34/Portex_Setup_1.0.34.exe",
   "notas": "Corrige el cursor de sincronizacion: si alguna fila fallaba al descargar, el cursor avanzaba igual y esa fila se perdia para siempre. Ahora reintenta la ventana completa la siguiente vez.",
-  "obligatoria": false
+  "obligatoria": true
 }
