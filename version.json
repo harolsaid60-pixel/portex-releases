@@ -1,7 +1,7 @@
 {
-  "version": "1.0.32",
-  "build": 32,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.32/Portex_Setup_1.0.32.exe",
-  "notas": "Corrige perdida silenciosa de datos al sincronizar hacia el PC: el correo y la cedula de residentes, y las observaciones de domicilios/correspondencia, no llegaban desde el backend.",
+  "version": "1.0.33",
+  "build": 33,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.33/Portex_Setup_1.0.33.exe",
+  "notas": "Fix critico: visitas, turnos y alertas de panico registradas desde Android no llegaban al PC (INSERT local fallaba en silencio). Tambien corrige perdida de campos en correspondencia, parqueadero y visitantes frecuentes.",
   "obligatoria": true
 }
