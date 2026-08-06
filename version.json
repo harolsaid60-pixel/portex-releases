@@ -1,7 +1,7 @@
 {
-  "version": "1.0.36",
-  "build": 36,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.36/Portex_Setup_1.0.36.exe",
-  "notas": "Visitas hoy/Domicilios del header ahora se actualizan en vivo (antes solo al sincronizar manualmente). Unifica la definicion de 'en instalacion' y 'pendientes' entre Android y PC.",
+  "version": "1.0.37",
+  "build": 37,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.37/Portex_Setup_1.0.37.exe",
+  "notas": "Actualizacion obligatoria: ubicacion GPS de alertas de panico llega al admin y al Informe de Gestion; firmas de Android/otro PC visibles en el PDF de evidencias; foto de perfil del vigilante visible en celular; exportar edificio incluye alertas/PQRS/mantenimiento/pre-operacionales; fechas del export de Jefe de Operaciones corregidas.",
   "obligatoria": true
 }
