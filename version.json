@@ -1,7 +1,7 @@
 {
-  "version": "1.0.35",
-  "build": 35,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.35/Portex_Setup_1.0.35.exe",
-  "notas": "Visitas, domicilios y correspondencia ahora se actualizan en vivo (WebSocket) en el panel de administrador -- un visitante registrado desde Android aparece de inmediato en Visitantes activos, sin esperar el siguiente ciclo de sincronizacion.",
+  "version": "1.0.36",
+  "build": 36,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.36/Portex_Setup_1.0.36.exe",
+  "notas": "Visitas hoy/Domicilios del header ahora se actualizan en vivo (antes solo al sincronizar manualmente). Unifica la definicion de 'en instalacion' y 'pendientes' entre Android y PC.",
   "obligatoria": true
 }
