@@ -1,7 +1,7 @@
 {
-  "version": "1.0.38",
-  "build": 38,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.38/Portex_Setup_1.0.38.exe",
-  "notas": "Actualizacion obligatoria: el panel de administrador ahora descarga correctamente el personal del edificio (vigilantes/ronderos) y refresca la pantalla al terminar de \"Descargar de la nube\".",
+  "version": "1.0.39",
+  "build": 39,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.39/Portex_Setup_1.0.39.exe",
+  "notas": "Actualizacion obligatoria: rondas ahora permite generar e imprimir el codigo QR de cada punto; al registrar un visitante se reconoce si ya visito este edificio u otro de la misma empresa de vigilancia.",
   "obligatoria": true
 }
