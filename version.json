@@ -1,7 +1,7 @@
 {
-  "version": "1.0.40",
-  "build": 40,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.40/Portex_Setup_1.0.40.exe",
-  "notas": "Actualizacion obligatoria: al vincular Telegram con un residente, el dialogo del QR ahora detecta automaticamente cuando el residente completa la vinculacion, en vez de quedarse esperando para siempre.",
+  "version": "1.0.41",
+  "build": 41,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.41/Portex_Setup_1.0.41.exe",
+  "notas": "Actualizacion obligatoria: al notificar a un residente ahora se muestra el motivo real cuando falla (antes decia 'se enviara al reconectar' incluso si el residente nunca tuvo Telegram ni celular registrado). Se agrega reintento periodico de notificaciones pendientes.",
   "obligatoria": true
 }
