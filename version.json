@@ -1,7 +1,7 @@
 {
-  "version": "1.0.44",
-  "build": 44,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.44/Portex_Setup_1.0.44.exe",
-  "notas": "Foto opcional en minuta de novedades (Android), visible tambien en PC. Purga automatica de la foto a los 40 dias. La foto de minuta ya se incluye en Exportar Evidencias del admin y en la exportacion de todos los edificios de Jefe de Operaciones.",
+  "version": "1.0.45",
+  "build": 45,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.45/Portex_Setup_1.0.45.exe",
+  "notas": "Placas de parqueadero vinculadas a residentes y visitantes frecuentes (reconocimiento automatico), sistema completo de infracciones (catalogo, registro, sanciones, reportes por correo), verificacion automatica de puesto, gestion de vigilantes por empresa, fotos de evidencia en mantenimiento, y correccion de la foto de identidad del vigilante en turno.",
   "obligatoria": false
 }
