@@ -1,7 +1,7 @@
 {
-  "version": "1.0.45",
-  "build": 45,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.45/Portex_Setup_1.0.45.exe",
-  "notas": "Placas de parqueadero vinculadas a residentes y visitantes frecuentes (reconocimiento automatico), sistema completo de infracciones (catalogo, registro, sanciones, reportes por correo), verificacion automatica de puesto, gestion de vigilantes por empresa, fotos de evidencia en mantenimiento, y correccion de la foto de identidad del vigilante en turno.",
+  "version": "1.0.46",
+  "build": 46,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.46/Portex_Setup_1.0.46.exe",
+  "notas": "Correccion: administradores no podian abrir Gestion de vigilantes (error de permisos). Correccion: vigilantes importados por Excel sin internet desde la pantalla Importar datos ahora se sincronizan correctamente al recuperar conexion, en vez de quedar invisibles para el resto de la empresa.",
   "obligatoria": false
 }
