@@ -1,7 +1,7 @@
 {
-  "version": "1.0.46",
-  "build": 46,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.46/Portex_Setup_1.0.46.exe",
-  "notas": "Correccion: administradores no podian abrir Gestion de vigilantes (error de permisos). Correccion: vigilantes importados por Excel sin internet desde la pantalla Importar datos ahora se sincronizan correctamente al recuperar conexion, en vez de quedar invisibles para el resto de la empresa.",
+  "version": "1.0.47",
+  "build": 47,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.47/Portex_Setup_1.0.47.exe",
+  "notas": "Reparacion retroactiva: vigilantes importados offline que hayan quedado atrapados solo en la base local (por el bug de la version anterior a v1.0.46) ahora se sincronizan automaticamente al backend en cuanto el PC tenga internet, sin necesidad de reimportar manualmente.",
   "obligatoria": false
 }
