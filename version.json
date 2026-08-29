@@ -1,7 +1,7 @@
 {
-  "version": "1.0.48",
-  "build": 48,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.48/Portex_Setup_1.0.48.exe",
-  "notas": "Auditoria completa de modo offline: placas de vehiculos de residentes/visitantes ahora sincronizan; fotos de domicilios, correspondencia, mantenimiento, pre-operacionales e infracciones ya no se pierden si falla la subida a la nube; foto de identidad de vigilante queda respaldada localmente si falla al actualizarse a mitad de turno; exportacion de evidencias de minuta ahora usa cache local de fotos para no depender de internet en cada exportacion.",
+  "version": "1.0.49",
+  "build": 49,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.49/Portex_Setup_1.0.49.exe",
+  "notas": "Modo offline: se corrigen el catalogo/SMLV de infracciones, el guardado de parqueaderos publico/privado y la foto de perfil del vigilante, que quedaban trabados con error de backend sin conexion. Se agrega exportacion en PDF de minuta, mantenimiento y pre-operacionales con selector de categorias, y se limpian botones duplicados del panel de administrador.",
   "obligatoria": false
 }
