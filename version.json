@@ -1,7 +1,7 @@
 {
-  "version": "1.0.49",
-  "build": 49,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.49/Portex_Setup_1.0.49.exe",
-  "notas": "Modo offline: se corrigen el catalogo/SMLV de infracciones, el guardado de parqueaderos publico/privado y la foto de perfil del vigilante, que quedaban trabados con error de backend sin conexion. Se agrega exportacion en PDF de minuta, mantenimiento y pre-operacionales con selector de categorias, y se limpian botones duplicados del panel de administrador.",
+  "version": "1.0.50",
+  "build": 50,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.50/Portex_Setup_1.0.50.exe",
+  "notas": "Reportes de infracciones ahora funcionan sin conexion: ver el reporte agrupado por persona y exportarlo en Excel/PDF (con fotos de evidencia) ya no depende de tener internet en el momento -- si el servidor no responde, se genera localmente con los datos ya sincronizados en este equipo.",
   "obligatoria": false
 }
