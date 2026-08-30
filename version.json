@@ -1,7 +1,7 @@
 {
-  "version": "1.0.50",
-  "build": 50,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.50/Portex_Setup_1.0.50.exe",
-  "notas": "Reportes de infracciones ahora funcionan sin conexion: ver el reporte agrupado por persona y exportarlo en Excel/PDF (con fotos de evidencia) ya no depende de tener internet en el momento -- si el servidor no responde, se genera localmente con los datos ya sincronizados en este equipo.",
+  "version": "1.0.51",
+  "build": 51,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.51/Portex_Setup_1.0.51.exe",
+  "notas": "Rediseno visual del reporte PDF de infracciones: cada infractor tiene ahora su propia pagina, con marca Portex, tabla de infracciones no exoneradas y firma de administracion configurable por edificio (subida desde el menu del cliente).",
   "obligatoria": false
 }
