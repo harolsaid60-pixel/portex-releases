@@ -1,7 +1,7 @@
 {
-  "version": "1.0.54",
-  "build": 54,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.54/Portex_Setup_1.0.54.exe",
-  "notas": "Corrige un bug real de datos: infracciones creadas por un administrador multi-edificio se guardaban en su edificio primario en vez del activo. Agrega busqueda por placa de vehiculo en infracciones.",
+  "version": "1.0.55",
+  "build": 55,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.55/Portex_Setup_1.0.55.exe",
+  "notas": "Corrige un bug real de datos: un administrador multi-edificio que cambiaba de edificio activo perdia esa eleccion al reiniciar la app y volvia silenciosamente al edificio primario. Ahora el edificio activo se conserva entre reinicios y se limpia correctamente al cerrar sesion o si la sesion expira.",
   "obligatoria": true
 }
