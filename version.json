@@ -1,7 +1,7 @@
 {
-  "version": "1.0.52",
-  "build": 52,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.52/Portex_Setup_1.0.52.exe",
-  "notas": "Corrige error 404 al exonerar/bloquear/generar cargo desde el lado cliente en un edificio distinto al principal.",
+  "version": "1.0.53",
+  "build": 53,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.53/Portex_Setup_1.0.53.exe",
+  "notas": "La configuracion de envio automatico de reportes de infracciones ahora es exclusiva del cliente, nunca del administrador.",
   "obligatoria": false
 }
