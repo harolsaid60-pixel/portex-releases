@@ -1,7 +1,7 @@
 {
-  "version": "1.0.55",
-  "build": 55,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.55/Portex_Setup_1.0.55.exe",
-  "notas": "Corrige un bug real de datos: un administrador multi-edificio que cambiaba de edificio activo perdia esa eleccion al reiniciar la app y volvia silenciosamente al edificio primario. Ahora el edificio activo se conserva entre reinicios y se limpia correctamente al cerrar sesion o si la sesion expira.",
+  "version": "1.0.56",
+  "build": 56,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.56/Portex_Setup_1.0.56.exe",
+  "notas": "Corrige un bug real de datos: el catalogo de infracciones (y pantallas relacionadas) mostraba siempre el edificio primario de un administrador multi-edificio, sin importar cual tuviera activo. Ahora respeta el edificio activo correctamente.",
   "obligatoria": true
 }
