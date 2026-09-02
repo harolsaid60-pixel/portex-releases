@@ -1,7 +1,7 @@
 {
-  "version": "1.0.56",
-  "build": 56,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.56/Portex_Setup_1.0.56.exe",
-  "notas": "Corrige un bug real de datos: el catalogo de infracciones (y pantallas relacionadas) mostraba siempre el edificio primario de un administrador multi-edificio, sin importar cual tuviera activo. Ahora respeta el edificio activo correctamente.",
-  "obligatoria": true
+  "version": "1.0.57",
+  "build": 57,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.57/Portex_Setup_1.0.57.exe",
+  "notas": "Vinculacion de un equipo offline a un edificio real con clave de envio propia: un admin en linea genera la clave desde 'Clave de envio' en el panel, y el equipo offline la usa para autorizar y enviar todos sus datos pendientes sin credenciales de acceso reales.",
+  "obligatoria": false
 }
