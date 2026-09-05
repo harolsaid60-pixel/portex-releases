@@ -1,7 +1,7 @@
 {
-  "version": "1.0.58",
-  "build": 58,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.58/Portex_Setup_1.0.58.exe",
-  "notas": "Vinculacion de placa desde la primera visita (antes solo desde la segunda), validacion de formato de placa (solo letras y numeros, mayusculas automaticas) al registrar residentes, visitantes frecuentes, visitas y entradas de parqueadero, y correccion de la purga de datos para que un visitante frecuente con vehiculo vinculado se elimine correctamente al vencer su periodo de retencion.",
+  "version": "1.0.59",
+  "build": 59,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.59/Portex_Setup_1.0.59.exe",
+  "notas": "Corrige la etiqueta de edificio del vigilante en Usuarios registrados (panel admin) -- ahora siempre muestra el edificio correcto. Instalador completo mas resistente a bloqueos de antivirus durante la configuracion de MySQL.",
   "obligatoria": false
 }
