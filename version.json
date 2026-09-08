@@ -1,7 +1,7 @@
 {
-  "version": "1.0.60",
-  "build": 60,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.60/Portex_Setup_1.0.60.exe",
-  "notas": "Gestion de vigilantes: el admin ya no pierde de vista a un vigilante recien desasignado de uno de sus edificios. Corrige perdida silenciosa de datos al sincronizar ediciones locales pendientes. Corrige mezcla de parqueaderos entre edificios de un mismo admin. Corrige silenciamiento de errores al asignar edificios a un cliente nuevo.",
+  "version": "1.0.61",
+  "build": 61,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.61/Portex_Setup_1.0.61.exe",
+  "notas": "Correccion de seguridad: la plantilla de Excel de vigilantes ya no expone datos de otros edificios ni de otras empresas. Se recomienda actualizar cuanto antes.",
   "obligatoria": false
 }
