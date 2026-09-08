@@ -1,7 +1,7 @@
 {
-  "version": "1.0.61",
-  "build": 61,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.61/Portex_Setup_1.0.61.exe",
-  "notas": "Correccion de seguridad: la plantilla de Excel de vigilantes ya no expone datos de otros edificios ni de otras empresas. Se recomienda actualizar cuanto antes.",
+  "version": "1.0.62",
+  "build": 62,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.62/Portex_Setup_1.0.62.exe",
+  "notas": "Nuevo: PQRS y Mantenimiento agregados al menu del vigilante en porteria. Correccion de aislamiento por edificio en alertas de emergencia, PQRS, Mantenimiento y link de Telegram (afectaba solo a administradores con varios edificios).",
   "obligatoria": false
 }
