@@ -1,7 +1,7 @@
 {
-  "version": "1.0.63",
-  "build": 63,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.63/Portex_Setup_1.0.63.exe",
-  "notas": "Correccion en el instalador Completo (equipos nuevos): ahora instala el Visual C++ Redistributable automaticamente, evitando que la app se abra en blanco y se cierre sola en PCs recien configurados.",
+  "version": "1.0.64",
+  "build": 64,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.64/Portex_Setup_1.0.64.exe",
+  "notas": "Correccion: la contrasena de MySQL local podia desincronizarse entre el primer arranque de la app y el siguiente cierre/reapertura, mostrando 'No se puede conectar a MySQL'. Ahora se guarda cifrada con DPAPI de Windows directo en el archivo de configuracion, sin depender del almacenamiento seguro de Windows que causaba el problema.",
   "obligatoria": false
 }
