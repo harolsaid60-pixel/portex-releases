@@ -1,7 +1,7 @@
 {
-  "version": "1.0.62",
-  "build": 62,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.62/Portex_Setup_1.0.62.exe",
-  "notas": "Nuevo: PQRS y Mantenimiento agregados al menu del vigilante en porteria. Correccion de aislamiento por edificio en alertas de emergencia, PQRS, Mantenimiento y link de Telegram (afectaba solo a administradores con varios edificios).",
+  "version": "1.0.63",
+  "build": 63,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.63/Portex_Setup_1.0.63.exe",
+  "notas": "Correccion en el instalador Completo (equipos nuevos): ahora instala el Visual C++ Redistributable automaticamente, evitando que la app se abra en blanco y se cierre sola en PCs recien configurados.",
   "obligatoria": false
 }
