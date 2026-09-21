@@ -1,7 +1,7 @@
 {
-  "version": "1.0.64",
-  "build": 64,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.64/Portex_Setup_1.0.64.exe",
-  "notas": "Correccion: la contrasena de MySQL local podia desincronizarse entre el primer arranque de la app y el siguiente cierre/reapertura, mostrando 'No se puede conectar a MySQL'. Ahora se guarda cifrada con DPAPI de Windows directo en el archivo de configuracion, sin depender del almacenamiento seguro de Windows que causaba el problema.",
+  "version": "1.0.65",
+  "build": 65,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.65/Portex_Setup_1.0.65.exe",
+  "notas": "Nuevo: Consulta de personas para porteria, supervisor y administracion. Busca por cedula, nombre o placa y muestra una ficha con la identidad, las placas y el historial de la persona; funciona tambien sin internet porque consulta la base local. Contratistas frecuentes: reconocimiento por documento, foto en el ingreso y retencion de 5 anios. Sincronizacion: los vigilantes se reconcilian antes de subir el resto de la informacion. Porteria: boton para alternar entre camara frontal y trasera. Aviso claro si la tarjeta de video no soporta DirectX 11. Correcciones en parqueadero, reportes de contratistas y lectura de decimales.",
   "obligatoria": false
 }
