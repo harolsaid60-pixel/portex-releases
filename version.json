@@ -1,7 +1,7 @@
 {
-  "version": "1.0.66",
-  "build": 66,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.66/Portex_Setup_1.0.66.exe",
-  "notas": "Correccion: las fotos de los vigilantes ahora se ven tambien sin internet. Antes solo se guardaba la direccion de la foto en la nube, que sin conexion no carga, asi que al iniciar sesion sin internet el vigilante veia sus iniciales en vez de su foto. Ahora la foto se guarda en el equipo al iniciar sesion y se muestra desde ahi en la tarjeta del turno, el control de turnos, el panel Vigilantes en turno, el historial de turnos del administrador, la lista de usuarios y Mi perfil.",
+  "version": "1.0.67",
+  "build": 67,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.67/Portex_Setup_1.0.67.exe",
+  "notas": "Nuevo: mensaje general en los reportes de infracciones. Cada edificio puede configurar un texto legal o general (por ejemplo un aviso de debido proceso, hasta 1200 caracteres) que se imprime en el pie de cada pagina del reporte PDF, junto a la firma de administracion. Tambien funciona al exportar el PDF sin internet. Correccion: el reporte PDF fallaba cuando una persona tenia muchas infracciones (unas 20 o mas); ahora se genera sin importar la cantidad.",
   "obligatoria": false
 }
