@@ -3,5 +3,5 @@
   "build": 68,
   "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.68/Portex_Setup_1.0.68.exe",
   "notas": "Nuevo: buscador en las listas de visitas en instalaciones (registrar salida), contratistas, domicilios, correspondencia y parqueadero. Escribe nombre, documento, apartamento o placa para encontrar rapido a quien darle salida o entregarle; no importan mayusculas, tildes ni guiones.",
-  "obligatoria": false
+  "obligatoria": true
 }
