@@ -1,7 +1,7 @@
 {
-  "version": "1.0.67",
-  "build": 67,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.67/Portex_Setup_1.0.67.exe",
-  "notas": "Nuevo: mensaje general en los reportes de infracciones. Cada edificio puede configurar un texto legal o general (por ejemplo un aviso de debido proceso, hasta 1200 caracteres) que se imprime en el pie de cada pagina del reporte PDF, junto a la firma de administracion. Tambien funciona al exportar el PDF sin internet. Correccion: el reporte PDF fallaba cuando una persona tenia muchas infracciones (unas 20 o mas); ahora se genera sin importar la cantidad.",
+  "version": "1.0.68",
+  "build": 68,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.68/Portex_Setup_1.0.68.exe",
+  "notas": "Nuevo: buscador en las listas de visitas en instalaciones (registrar salida), contratistas, domicilios, correspondencia y parqueadero. Escribe nombre, documento, apartamento o placa para encontrar rapido a quien darle salida o entregarle; no importan mayusculas, tildes ni guiones.",
   "obligatoria": false
 }
