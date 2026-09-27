@@ -1,7 +1,7 @@
 {
-  "version": "1.0.70",
-  "build": 70,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.70/Portex_Setup_1.0.70.exe",
-  "notas": "Arreglo: el dialogo de Registrar salida de contratistas se caia cuando el campo Autorizo o el Area eran solo numeros (por ejemplo 1102). Tambien protege domicilios, correspondencia y parqueadero ante datos numericos en nombres, empresas y notas.",
+  "version": "1.0.71",
+  "build": 71,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.71/Portex_Setup_1.0.71.exe",
+  "notas": "Mejora: si una camara web no abre con la resolucion normal (pasaba con algunas camaras USB Hikvision), la app prueba otras resoluciones automaticamente hasta encontrar una que funcione. Las camaras que ya funcionaban no cambian.",
   "obligatoria": true
 }
