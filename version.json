@@ -1,7 +1,7 @@
 {
-  "version": "1.0.69",
-  "build": 69,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.69/Portex_Setup_1.0.69.exe",
-  "notas": "Arreglo: la pantalla de Registrar salida de visitantes quedaba en gris y no dejaba hacer nada cuando algun visitante tenia como nombre solo numeros (por ejemplo, la cedula escrita en el campo del nombre). Tambien corrige el envio de avisos por WhatsApp con apartamentos numericos.",
+  "version": "1.0.70",
+  "build": 70,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.70/Portex_Setup_1.0.70.exe",
+  "notas": "Arreglo: el dialogo de Registrar salida de contratistas se caia cuando el campo Autorizo o el Area eran solo numeros (por ejemplo 1102). Tambien protege domicilios, correspondencia y parqueadero ante datos numericos en nombres, empresas y notas.",
   "obligatoria": true
 }
