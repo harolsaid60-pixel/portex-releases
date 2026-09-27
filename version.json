@@ -1,7 +1,7 @@
 {
-  "version": "1.0.68",
-  "build": 68,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.68/Portex_Setup_1.0.68.exe",
-  "notas": "Nuevo: buscador en las listas de visitas en instalaciones (registrar salida), contratistas, domicilios, correspondencia y parqueadero. Escribe nombre, documento, apartamento o placa para encontrar rapido a quien darle salida o entregarle; no importan mayusculas, tildes ni guiones.",
+  "version": "1.0.69",
+  "build": 69,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.69/Portex_Setup_1.0.69.exe",
+  "notas": "Arreglo: la pantalla de Registrar salida de visitantes quedaba en gris y no dejaba hacer nada cuando algun visitante tenia como nombre solo numeros (por ejemplo, la cedula escrita en el campo del nombre). Tambien corrige el envio de avisos por WhatsApp con apartamentos numericos.",
   "obligatoria": true
 }
