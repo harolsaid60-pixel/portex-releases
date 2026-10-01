@@ -1,7 +1,7 @@
 {
-  "version": "1.0.71",
-  "build": 71,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.71/Portex_Setup_1.0.71.exe",
-  "notas": "Mejora: si una camara web no abre con la resolucion normal (pasaba con algunas camaras USB Hikvision), la app prueba otras resoluciones automaticamente hasta encontrar una que funcione. Las camaras que ya funcionaban no cambian.",
+  "version": "1.0.72",
+  "build": 72,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.72/Portex_Setup_1.0.72.exe",
+  "notas": "Mejora importante de velocidad: la app arranca, inicia sesion y carga mas rapido, la camara ya no congela la pantalla y las visitas y contratistas se guardan al instante (la foto se sube en segundo plano y se reintenta si falla; las fotos de contratistas ya no se pierden). Iniciar turno ya no espera la descarga completa de datos. Corregido: la ventana a veces no cerraba con la X, cierres inesperados al salir de una pantalla mientras cargaba y doble registro de correspondencia por doble clic.",
   "obligatoria": true
 }
