@@ -1,7 +1,7 @@
 {
-  "version": "1.0.72",
-  "build": 72,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.72/Portex_Setup_1.0.72.exe",
-  "notas": "Mejora importante de velocidad: la app arranca, inicia sesion y carga mas rapido, la camara ya no congela la pantalla y las visitas y contratistas se guardan al instante (la foto se sube en segundo plano y se reintenta si falla; las fotos de contratistas ya no se pierden). Iniciar turno ya no espera la descarga completa de datos. Corregido: la ventana a veces no cerraba con la X, cierres inesperados al salir de una pantalla mientras cargaba y doble registro de correspondencia por doble clic.",
+  "version": "1.0.73",
+  "build": 73,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.73/Portex_Setup_1.0.73.exe",
+  "notas": "Correccion importante: la app ya no cierra la sesion del vigilante por si sola en pleno turno. Las alertas en tiempo real (panico y panel del administrador) ya no se pierden despues de 15 minutos ni tras un corte de internet. Las fotos se suben aunque la sesion haya vencido. Sincronizacion mas liviana y sin peticiones acumuladas cuando la red esta lenta.",
   "obligatoria": true
 }
