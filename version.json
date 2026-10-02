@@ -1,7 +1,7 @@
 {
-  "version": "1.0.74",
-  "build": 74,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.74/Portex_Setup_1.0.74.exe",
-  "notas": "Correccion importante: la app ya no reenvia notificaciones en un bucle infinito (en algunos edificios esto ponia lenta la app y el PC). Menos congelamientos: la app ya no consulta el estado de la red a cada momento. El respaldo diario automatico de la base de datos vuelve a funcionar.",
+  "version": "1.0.75",
+  "build": 75,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.75/Portex_Setup_1.0.75.exe",
+  "notas": "Nuevo: desde la minuta se puede registrar la visita del supervisor, circular de seguridad, visita operativa y reunion con el cliente, y con eso se llena el Informe de Gestion. El Excel de exportar todo del Jefe de Operaciones ahora trae la hoja Minuta. Menos congelamientos: el respaldo diario y la limpieza de avisos ya no bloquean la app.",
   "obligatoria": true
 }
