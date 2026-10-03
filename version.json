@@ -1,7 +1,7 @@
 {
-  "version": "1.0.75",
-  "build": 75,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.75/Portex_Setup_1.0.75.exe",
-  "notas": "Nuevo: desde la minuta se puede registrar la visita del supervisor, circular de seguridad, visita operativa y reunion con el cliente, y con eso se llena el Informe de Gestion. El Excel de exportar todo del Jefe de Operaciones ahora trae la hoja Minuta. Menos congelamientos: el respaldo diario y la limpieza de avisos ya no bloquean la app.",
+  "version": "1.0.76",
+  "build": 76,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.76/Portex_Setup_1.0.76.exe",
+  "notas": "Las fotos de las multas ahora se toman con mas nitidez y salen mas grandes en el reporte PDF.",
   "obligatoria": true
 }
