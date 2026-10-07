@@ -1,7 +1,8 @@
 {
-  "version": "1.0.76",
-  "build": 76,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.76/Portex_Setup_1.0.76.exe",
-  "notas": "Las fotos de las multas ahora se toman con mas nitidez y salen mas grandes en el reporte PDF.",
-  "obligatoria": true
+  "version": "1.0.77",
+  "build": 77,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.77/Portex_Setup_1.0.77.exe",
+  "sha256": "dc14e94131dc69b471e7941983a66dc7c413d6c1ec216a8b686246581e35622f",
+  "notas": "Desde esta version Portex se actualiza solo, sin pedir la contrasena de administrador. Tambien revisa si hay actualizaciones cada hora.",
+  "obligatoria": false
 }
