@@ -1,8 +1,8 @@
 {
-  "version": "1.0.79",
-  "build": 79,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.79/Portex_Setup_1.0.79.exe",
-  "sha256": "98963c84f2b1e8f70013392e00ddcbc20640a93a3255063d93fb39c62878539b",
-  "notas": "Los campos de placa ahora explican como escribirla (solo letras y numeros, sin espacios ni guiones) y la corrigen solos.",
+  "version": "1.0.80",
+  "build": 80,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.80/Portex_Setup_1.0.80.exe",
+  "sha256": "f330e50568d3aef95269024554b9e798d57d4a52362663be470d9dd8a6f9c8f1",
+  "notas": "Al registrar un residente con una placa que ya tiene otra persona, ahora se muestra a nombre de quien esta y ya no se crean residentes repetidos.",
   "obligatoria": false
 }
