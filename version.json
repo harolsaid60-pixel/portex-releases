@@ -1,8 +1,8 @@
 {
-  "version": "1.0.80",
-  "build": 80,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.80/Portex_Setup_1.0.80.exe",
-  "sha256": "f330e50568d3aef95269024554b9e798d57d4a52362663be470d9dd8a6f9c8f1",
-  "notas": "Al registrar un residente con una placa que ya tiene otra persona, ahora se muestra a nombre de quien esta y ya no se crean residentes repetidos.",
+  "version": "1.0.81",
+  "build": 81,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.81/Portex_Setup_1.0.81.exe",
+  "sha256": "886456a8ba6836e6a154799c9641163a4443c9cf785f6b70bcb4d73a35565ad3",
+  "notas": "Al actualizar, Portex ahora muestra el progreso y se reinicia solo al terminar. Esta vez puede tardar unos minutos: no vuelva a abrir Portex, se abre solo.",
   "obligatoria": false
 }
