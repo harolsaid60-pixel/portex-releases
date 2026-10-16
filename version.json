@@ -1,8 +1,8 @@
 {
-  "version": "1.0.81",
-  "build": 81,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.81/Portex_Setup_1.0.81.exe",
-  "sha256": "886456a8ba6836e6a154799c9641163a4443c9cf785f6b70bcb4d73a35565ad3",
-  "notas": "Al actualizar, Portex ahora muestra el progreso y se reinicia solo al terminar. Esta vez puede tardar unos minutos: no vuelva a abrir Portex, se abre solo.",
+  "version": "1.0.82",
+  "build": 82,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.82/Portex_Setup_1.0.82.exe",
+  "sha256": "b9956ea9e8c342eed17a90e39f9e6f7e487c1118f970425d63406ecf4577be42",
+  "notas": "Portex ya no se queda congelado esperando a la base de datos despues de actualizar.",
   "obligatoria": false
 }
