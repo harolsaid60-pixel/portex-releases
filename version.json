@@ -1,8 +1,8 @@
 {
-  "version": "1.0.84",
-  "build": 84,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.84/Portex_Setup_1.0.84.exe",
-  "sha256": "97ab77c6861ce9cd57fba218d69f3359307cee4d467d55736840c794b84b8e7e",
-  "notas": "El vigilante queda asignado solo al edificio de este PC al entrar y la minuta permite adjuntar una foto.",
+  "version": "1.0.85",
+  "build": 85,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.85/Portex_Setup_1.0.85.exe",
+  "sha256": "a2dca8863c47646ae3470541fa8822380ef4aee9ed45a45177145c32685ed013",
+  "notas": "Vigilantes compartidos entre empresas aliadas y aviso de cédulas ya registradas al importar vigilantes.",
   "obligatoria": false
 }
