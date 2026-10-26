@@ -1,8 +1,8 @@
 {
-  "version": "1.0.83",
-  "build": 83,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.83/Portex_Setup_1.0.83.exe",
-  "sha256": "fb176c9f4dbd42287ad06f90e5468437293ba899f1031924c7aded186c0f7e2b",
-  "notas": "El vigilante puede entrar sin internet, fotos de frecuentes sin internet y alerta de equipos atrasados para el admin.",
+  "version": "1.0.84",
+  "build": 84,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.84/Portex_Setup_1.0.84.exe",
+  "sha256": "97ab77c6861ce9cd57fba218d69f3359307cee4d467d55736840c794b84b8e7e",
+  "notas": "El vigilante queda asignado solo al edificio de este PC al entrar y la minuta permite adjuntar una foto.",
   "obligatoria": false
 }
