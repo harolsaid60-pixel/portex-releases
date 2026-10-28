@@ -1,8 +1,8 @@
 {
-  "version": "1.0.85",
-  "build": 85,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.85/Portex_Setup_1.0.85.exe",
-  "sha256": "a2dca8863c47646ae3470541fa8822380ef4aee9ed45a45177145c32685ed013",
-  "notas": "Vigilantes compartidos entre empresas aliadas y aviso de cédulas ya registradas al importar vigilantes.",
+  "version": "1.0.86",
+  "build": 86,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.86/Portex_Setup_1.0.86.exe",
+  "sha256": "ae8b3e258dce4d8ca19c0226c1a95774354e1b3cb4b3199826b6c210e3524169",
+  "notas": "Importar vigilantes del jefe de operaciones, fotos de frecuentes protegidas y el PC recupera solo su puesto si pierde la configuración.",
   "obligatoria": false
 }
