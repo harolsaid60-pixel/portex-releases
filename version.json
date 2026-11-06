@@ -1,8 +1,8 @@
 {
-  "version": "1.0.86",
-  "build": 86,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.86/Portex_Setup_1.0.86.exe",
-  "sha256": "ae8b3e258dce4d8ca19c0226c1a95774354e1b3cb4b3199826b6c210e3524169",
-  "notas": "Importar vigilantes del jefe de operaciones, fotos de frecuentes protegidas y el PC recupera solo su puesto si pierde la configuración.",
+  "version": "1.0.88",
+  "build": 88,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.88/Portex_Setup_1.0.88.exe",
+  "sha256": "222a36278896df0330787e672d217d51dea8d3b195f7f2aa5028a08bb361786c",
+  "notas": "Sin vigilantes ni residentes repetidos al enviar datos. El PC pide el código del edificio al vigilante sin edificio.",
   "obligatoria": false
 }
