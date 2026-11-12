@@ -1,8 +1,8 @@
 {
-  "version": "1.0.88",
-  "build": 88,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.88/Portex_Setup_1.0.88.exe",
-  "sha256": "222a36278896df0330787e672d217d51dea8d3b195f7f2aa5028a08bb361786c",
-  "notas": "Sin vigilantes ni residentes repetidos al enviar datos. El PC pide el código del edificio al vigilante sin edificio.",
+  "version": "1.0.89",
+  "build": 89,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.89/Portex_Setup_1.0.89.exe",
+  "sha256": "dc9a742ef6da6df14abf371a71983891e7edd1f26bf17615288478fde0361a74",
+  "notas": "Zonas de ronda, panel con todas las rondas en curso, PDF de rondas por zona e informe de rondas para el administrador.",
   "obligatoria": false
 }
