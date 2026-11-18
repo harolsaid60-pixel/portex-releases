@@ -1,8 +1,8 @@
 {
-  "version": "1.0.90",
-  "build": 90,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.90/Portex_Setup_1.0.90.exe",
-  "sha256": "4109f194d0df8c1a9359c01858d21c940e3b4da9128298d2620831ac65bfc742",
-  "notas": "Infracciones con debido proceso, puestos compartidos, todas las fotos en los PDF y marca de la empresa automatica al exportar.",
+  "version": "1.0.91",
+  "build": 91,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.91/Portex_Setup_1.0.91.exe",
+  "sha256": "ee8edfc6d9136f8f6208792b1675f83e12b577e5a1923e88d10be9cb9e09d541",
+  "notas": "Logo y color de la empresa en todos los PDF; PDF de rondas con fechas en el nombre.",
   "obligatoria": false
 }
