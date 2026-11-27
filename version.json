@@ -1,8 +1,8 @@
 {
-  "version": "1.0.93",
-  "build": 93,
-  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.93/Portex_Setup_1.0.93.exe",
-  "sha256": "61fd868af90abc3cfa07c6cf4ced9c9dd74bd66b10e29bb2df9d89b012aea52c",
-  "notas": "Arreglos de errores reportados por los PC y la camara ya no falla con doble clic.",
+  "version": "1.0.94",
+  "build": 94,
+  "url": "https://github.com/harolsaid60-pixel/portex-releases/releases/download/v1.0.94/Portex_Setup_1.0.94.exe",
+  "sha256": "001913b032c13893cb4f00e7f808e3b070a81c627e90a2a07da07474ec8358cf",
+  "notas": "Al dar salida a un visitante se ve su ficha con foto y todos los datos.",
   "obligatoria": false
 }
